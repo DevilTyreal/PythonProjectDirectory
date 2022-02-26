@@ -7,6 +7,7 @@ o <python_project_name>/
 - /ide/__init__.py
 - /bin/__init__.py
 - /build/__init__.py
+- /trash/__init__.py
 - /__init__.py
 - /.gitignore
 - /README.md

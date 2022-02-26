@@ -1,9 +1,24 @@
-# python_project_fullname_v2 (python_project_name_v2-version)
-- Coding Documentation by AK aka DevilTyreal
-- date
-- info
-
-# Directory
+</h1>
+<p align="center">
+  PythonProjectDirectory is a project 
+  under P.AK for Python file structure 
+  documentation started on 07/02/2022 
+  by DevilTyreal, written in Python. 
+<p align="center">
+  File structuring for future references
+  and Python Project. All Python directory
+  will follow the mentioned references.
+<p align="center">
+  Project AKASHA (P.AK) is fully written, 
+  started on 06/02/2022 by DevilTyreal. 
+<p align="center">
+  The code from other developer will be 
+  written down as credit to their work in 
+  the README.md. 
+<p align="center">
+  Every code and file in AKASHA framework 
+  is Copyright (c) unless it is mentioned.
+<br />
 
 # Project AKASHA (P.AK)
 ```
@@ -23,18 +38,26 @@
 --------------All rights reserved.--------------
 ```
 
-# Notice:
-- Project AKASHA (P.AK) is fully written, 
-started on 06/02/2022 by DevilTyreal. 
-- The code from other developer will be 
-written down as credit to their work in 
-the README.md. 
-- Every code and file in AKASHA framework 
-is Copyright (c) unless it is mentioned.
+## Requirement:
+- None
 
-# Credit:
+## Installation:
+- None
+
+## Latest Build:
+Detailed update on the project, visit Changelog.
+
+## Feature:
+- None
+
+## Contact
+- None
+
+## Donations
+- None
+
+## License
+- None
+
+## Credit:
 - DevilTyreal - [GitHub](https://github.com/DevilTyreal)
-
-# Latest Build:
-- Version 0.0
-info
