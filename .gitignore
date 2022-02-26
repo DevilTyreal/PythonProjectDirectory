@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# trash can
+trash/*
+
+# list to do
+LIST_TO_DO.txt
