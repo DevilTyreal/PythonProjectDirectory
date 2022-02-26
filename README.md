@@ -38,6 +38,12 @@
 --------------All rights reserved.--------------
 ```
 
+## Requirement:
+- None
+
+## Installation:
+- None
+
 ## Latest Build:
 Detailed update on the project, visit Changelog.
 
