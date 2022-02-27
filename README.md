@@ -1,3 +1,14 @@
+<h1 align="center">
+  <br>
+  <a href="https://github.com/DevilTyreal?tab=repositories"><img src="https://i.imgur.com/v2jMhv6.png" alt="P.AK" width="150"></a>
+  <br>
+  <b>AKCodex</b>
+  <br>
+  <sub><sup><b>Copyright (c) 2022 DevilTyreal</b></sup></sub>
+  <br>
+  <sub><sup><b>All rights reserved.</b></sup></sub>
+  <br>
+
 </h1>
 <p align="center">
   PythonProjectDirectory is a project 
@@ -18,25 +29,7 @@
 <p align="center">
   Every code and file in AKASHA framework 
   is Copyright (c) unless it is mentioned.
-<br />
-
-# Project AKASHA (P.AK)
-```
-  ______________________________________________
-  |     /06/02/2022 _____        DevilTyreal   /
-  |    //  ___  \  /     \      /  /  __/ /   / 
-  |   //  /../  / /  ___  \    /  /__/ __/   /  
-  |  //  ////  / /  /...\  \  /   ____/     /|  
-  | //  ______/ /  //////  / /   /__       / |  
-  |//  /       /      _   / /  __  /__    /  |   
-  //  /  ___  /   / ASHA / /  / /__  /__ /   |  
- / \_/  /__/  \___\_____/  \_/    /____//    |  
-/___Press_Enter_To_Start_The_Project___/_____|  
-```
-```
----------Copyright (c) 2022 DevilTyreal---------
---------------All rights reserved.--------------
-```
+<br>
 
 ## Requirement:
 - None
