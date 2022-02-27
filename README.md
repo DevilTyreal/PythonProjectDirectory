@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/DevilTyreal?tab=repositories"><img src="https://i.imgur.com/FT8EHpL.png" alt="P.AK" width="150"></a>
   <br>
-  <b>AKCodex</b>
+  <b>PyPDir</b>
   <br>
   <sub><sup><b>Copyright (c) 2022 DevilTyreal</b></sup></sub>
   <br>
