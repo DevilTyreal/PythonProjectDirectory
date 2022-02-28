@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/DevilTyreal?tab=repositories"><img src="https://i.imgur.com/FT8EHpL.png" alt="P.AK" width="150"></a>
+  <a href="https://github.com/stars/DevilTyreal/lists/project-akasha"><img src="https://i.imgur.com/FT8EHpL.png" alt="P.AK" width="150"></a>
   <br>
   <b>PyPDir</b>
   <br>
