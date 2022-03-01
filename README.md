@@ -13,8 +13,8 @@
 <p align="center">
   PythonProjectDirectory is a project 
   under P.AK for Python file structure 
-  documentation started on 07/02/2022 
-  by DevilTyreal, written in Python. 
+  template started on 07/02/2022 by 
+  DevilTyreal, written in Python. 
 <p align="center">
   File structuring for future references
   and Python Project. All Python directory
@@ -38,7 +38,7 @@
 - None
 
 ## Latest Build:
-Detailed update on the project, visit Changelog.
+Detailed update on the project, visit [Changelog](https://github.com/DevilTyreal/PythonProjectDirectory/wiki).
 
 ## Feature:
 - None
